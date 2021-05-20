@@ -28,7 +28,10 @@
 ## API Response
  - Signing Up a user(Manual Registeration)
    - Backend (Success)
-    -Result:- data: {msg: "Registered Successfully"}, status: 200
+    -Result: data: {msg: "Registered Successfully"}, status: 200
    - Frontend (Success)
    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Successfully%20registering%20user.png)
-
+   - Backend (Error)
+     -(Existing User): data: {msg: "user already exists"}, status: 403
+    - Frontend (Error)
+    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Successfully%20registering%20user.png)
