@@ -28,7 +28,7 @@
 ## API Response
  - Signing Up a user(Manual Registeration)
    - Backend (Success)
-   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/user%20registeration%20backend%20success.png)
+    -Result:- data: {msg: "Registered Successfully"}, status: 200
    - Frontend (Success)
    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Successfully%20registering%20user.png)
 
