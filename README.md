@@ -16,4 +16,12 @@
 ## API routes
   - Signing Up a user
     - Manual Registeration ('localhost:8000/users/register')
+    - Google Registeration ('localhost:8000/users/google')
+  - Signing In a user
+    - Manual Login ('localhost:8000/users/login')
+    - Google Login ('localhost:8000/users/google')
+  - Chaging Password
+    - 'localhost:8000/users/changePassword'
+  - LogOut Route
+    -'localhost:8000/users/logout'
    
