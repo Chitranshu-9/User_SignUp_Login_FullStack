@@ -15,5 +15,5 @@
 
 ## API routes
   - Signing Up a user
-    
+    - Manual Registeration ('localhost:8000/users/register')
    
