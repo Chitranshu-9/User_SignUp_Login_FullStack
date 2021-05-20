@@ -25,3 +25,6 @@
   - LogOut Route
     -'localhost:8000/users/logout'
    
+## API Response
+ - Signing Up a user(Manual Registeration)
+   - Bakend
