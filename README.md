@@ -27,5 +27,8 @@
    
 ## API Response
  - Signing Up a user(Manual Registeration)
-   - Backend
+   - Backend (Success)
    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/user%20registeration%20backend%20success.png)
+   - Frontend (Success)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/user%20registeration%20backend%20success.png)
+
