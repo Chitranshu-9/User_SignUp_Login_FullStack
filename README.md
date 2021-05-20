@@ -8,3 +8,12 @@
 ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Access%20Page.png)
 
 ## Features
+  1. Registering A user, both Manual and Google Authentication.
+  2. Signing In the user both Manual and Google Authentication.
+  3. LogOut functionality.
+  4. Changing Password.
+
+## API routes
+  - Signing Up a user
+    
+   
