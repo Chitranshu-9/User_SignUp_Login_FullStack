@@ -60,4 +60,4 @@
     - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/login%20error.png)
  - Signing Up/ Logging In a user(Google)
    -Success
-   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/login%20error.png)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Google%20Login_Registeration%20consent%20screen.png)
