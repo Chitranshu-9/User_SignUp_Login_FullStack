@@ -70,4 +70,9 @@
     -Result: data: {msg: "Email or Password is incorrect"}, status: 403
 - Frontend (Error)
    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/password%20change%20error.png)
+## Logout
+- Backend (Success)
+    -Result: data: {msg: "Logged Out Successfully"}, status: 200
+- Frontend (Success)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/logout%20Success.png)
  
