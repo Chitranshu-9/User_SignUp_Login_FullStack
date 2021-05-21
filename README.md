@@ -83,9 +83,29 @@
  - Server Folder Structure :-
 ```bash
 ├──server
-   ├───config
-   ├───controllers
-   ├───models
-   ├───routes
+   ├───/config
+   ├───/controllers
+   ├───/models
+   ├───/routes
+```
+- Client Folder Structure :- 
+```bash
+├──client
+   ├───/user_signup_login
+       ├───/pulic
+       ├───/src
+           ├───/components
+               ├───LoginComponent.js
+               ├───SignupComponent.js
+           ├───/helpers
+               ├───auth_helper.js
+               ├───Context.js
+           ├───/pages
+               ├───AccessPage.js
+               ├───SignupLoginPage.js
+           ├───App.css
+           ├───App.js
+           
+  s
 ```
                                          
