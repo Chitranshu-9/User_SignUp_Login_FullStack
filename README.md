@@ -39,3 +39,8 @@
      -(Matching Password): data: {msg: "password doen't mathces confirm password"}, status: 400
     - Frontend (Error)
     - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Signup%20Error%20for%20confirm%20password.png)
+ - Logging In(Manual)
+   - Backend (Success)
+    -Result: data: {msg: "Logged In Successfully"}, status: 200
+   - Frontend (Success)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Successfully%20registering%20user.png)
