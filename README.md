@@ -76,4 +76,14 @@
 - Frontend (Success)
    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/logout%20Success.png)
 ## Tips and Notes:-
+ - To work with a Frontend Application while sending request to the server for authentication make sure you configure your request to creadentials as well
+   - For example while sending request with axios, first create an instance of axios and store it in a constant:- e.g.-> const HTTP = axios.create({
+            withCredentials: true
+        });
+ - Folder for adding Routes:- server/routes/
+ - ├───config
+   ├───controllers
+   ├───models
+   ├───routes
  - 
+                                         
