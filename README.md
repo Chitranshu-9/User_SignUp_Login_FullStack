@@ -105,7 +105,5 @@
                ├───SignupLoginPage.js
            ├───App.css
            ├───App.js
-           
-  s
 ```
                                          
