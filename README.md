@@ -54,3 +54,7 @@
     }, status: 200}
    - Frontend (Success)
    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/login%20success.png)
+   - Backend (Error)
+     -(Existing User): data: {"msg": "Email or Password is incorrect"}, status: 403
+    - Frontend (Error)
+    - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/SignUp%20error%20for%20existing%20user.png)
