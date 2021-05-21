@@ -64,5 +64,10 @@
 ## Changing Password
 - Backend (Success)
     -Result: data: {msg: "Password updated Successfully"}, status: 200
-   - Frontend (Success)
-   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Successfully%20registering%20user.png)
+- Frontend (Success)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Login%20user%20change%20password%20success.png)
+- Backend (Error)
+    -Result: data: {msg: "Email or Password is incorrect"}, status: 403
+- Frontend (Error)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Login%20user%20change%20password%20success.png)
+ 
