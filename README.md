@@ -69,5 +69,5 @@
 - Backend (Error)
     -Result: data: {msg: "Email or Password is incorrect"}, status: 403
 - Frontend (Error)
-   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Login%20user%20change%20password%20success.png)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/password%20change%20error.png)
  
