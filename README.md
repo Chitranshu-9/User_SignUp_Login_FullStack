@@ -80,9 +80,10 @@
    - For example while sending request with axios, first create an instance of axios and store it in a constant:- e.g.-> const HTTP = axios.create({
             withCredentials: true
         });
- - Folder for adding Routes:- server/routes/
+ - Server Folder Structure :-
 ```bash
- - ├───config
+├──server
+   ├───config
    ├───controllers
    ├───models
    ├───routes
