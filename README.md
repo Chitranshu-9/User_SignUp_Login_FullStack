@@ -41,6 +41,16 @@
     - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Signup%20Error%20for%20confirm%20password.png)
  - Logging In(Manual)
    - Backend (Success)
-    -Result: data: {msg: "Logged In Successfully"}, status: 200
+    -Result: data: {"msg": "Logged in Successfully",
+    "userName": "demo user",
+    "user": {
+        "_id": "609905c1fb04b429802d6143",
+        "name": "demo user",
+        "email": "demouser@demouser.com",
+        "password": "$2b$10$sujKK8yVGuTGTHWTwmvO4usSWvHOU2tDu6.SNWFq00fxs/8/GsruK",
+        "createdAt": "2021-05-10T10:06:57.154Z",
+        "updatedAt": "2021-05-20T10:59:35.331Z",
+        "__v": 0
+    }, status: 200}
    - Frontend (Success)
-   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/Successfully%20registering%20user.png)
+   - ![alt text](https://github.com/Chitranshu-9/User_SignUp_Login_FullStack/blob/main/login%20success.png)
