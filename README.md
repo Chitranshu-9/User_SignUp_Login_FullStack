@@ -81,9 +81,10 @@
             withCredentials: true
         });
  - Folder for adding Routes:- server/routes/
+```bash
  - ├───config
    ├───controllers
    ├───models
    ├───routes
- - 
+```
                                          
